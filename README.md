@@ -4,4 +4,4 @@ a coin pickup robot algorithm test
 试着按照计算每一步的成本的方式来为机器人做决策，每次计算向上走和向右走的潜在收益和损失的成本。
 这种方式对5*5及以下的地图表现良好，对大于5*5的地图表现较差。
 # gitea
-![image text](http://doubletao.oicp.net/doubletao/Welcome/src/branch/dev/img/img.jpg)  
+![image text](https://github.com/doubletao/UptRightRobot/blob/master/UptRightRobot/res/img.jpg)
